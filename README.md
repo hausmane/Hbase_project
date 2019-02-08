@@ -95,6 +95,3 @@ Start the shell: bin/hbase shell
 ```
 sudo service zookeeper stop
 ```
-## Contact information
-		
-Yolanda de la Hoz Simón. yolanda93h@gmail.com
